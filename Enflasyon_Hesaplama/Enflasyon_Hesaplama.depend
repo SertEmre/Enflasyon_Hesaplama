@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740772828 source:c:\users\emres\onedrive\desktop\enflasyon_hesaplama\main.c
+	<stdio.h>
+	<math.h>
+
